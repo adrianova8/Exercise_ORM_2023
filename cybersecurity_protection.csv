@@ -1,0 +1,49 @@
+REF_DATE;GEO;DGUID;Type;UOM;UOM_ID;SCALAR_FACTOR;SCALAR_ID;VECTOR;COORDINATE;VALUE;STATUS;SYMBOL;TERMINATED;DECIMALS
+2018;Canada;2016A000011124;Protected a laptop or computer ;Percent;239;units;0;v1074280790;1.1;80.2;A;;;1
+2018;Canada;2016A000011124;Enable automatic updates on your operating systems;Percent;239;units;0;v1074280791;1.2;54.6;A;;;1
+2018;Canada;2016A000011124;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280792;1.3;32.6;A;;;1
+2018;Canada;2016A000011124;Use additional cyber security measures beyond the default software ;Percent;239;units;0;v1074280793;1.4;46.0;A;;;1
+2018;Canada;2016A000011124;Protected a mobile device ;Percent;239;units;0;v1074280794;1.5;74.4;A;;;1
+2018;Canada;2016A000011124;Enable automatic updates on your operating systems ;Percent;239;units;0;v1074280795;1.6;51.2;A;;;1
+2018;Canada;2016A000011124;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280796;1.7;35.8;A;;;1
+2018;Canada;2016A000011124;Use additional cyber security measures beyond the default software;Percent;239;units;0;v1074280797;1.8;15.7;A;;;1
+2018;Atlantic provinces;2016A00011;Protected a laptop or computer ;Percent;239;units;0;v1074280798;2.1;76.1;A;;;1
+2018;Atlantic provinces;2016A00011;Enable automatic updates on your operating systems;Percent;239;units;0;v1074280799;2.2;51.4;A;;;1
+2018;Atlantic provinces;2016A00011;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280800;2.3;32.7;A;;;1
+2018;Atlantic provinces;2016A00011;Use additional cyber security measures beyond the default software ;Percent;239;units;0;v1074280801;2.4;42.4;A;;;1
+2018;Atlantic provinces;2016A00011;Protected a mobile device ;Percent;239;units;0;v1074280802;2.5;67.8;A;;;1
+2018;Atlantic provinces;2016A00011;Enable automatic updates on your operating systems ;Percent;239;units;0;v1074280803;2.6;45.4;A;;;1
+2018;Atlantic provinces;2016A00011;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280804;2.7;34.6;A;;;1
+2018;Atlantic provinces;2016A00011;Use additional cyber security measures beyond the default software;Percent;239;units;0;v1074280805;2.8;13.1;A;;;1
+2018;Quebec;2016A000224;Protected a laptop or computer ;Percent;239;units;0;v1074280806;3.1;78.6;A;;;1
+2018;Quebec;2016A000224;Enable automatic updates on your operating systems;Percent;239;units;0;v1074280807;3.2;56.4;A;;;1
+2018;Quebec;2016A000224;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280808;3.3;28.1;A;;;1
+2018;Quebec;2016A000224;Use additional cyber security measures beyond the default software ;Percent;239;units;0;v1074280809;3.4;45.7;A;;;1
+2018;Quebec;2016A000224;Protected a mobile device ;Percent;239;units;0;v1074280810;3.5;72.9;A;;;1
+2018;Quebec;2016A000224;Enable automatic updates on your operating systems ;Percent;239;units;0;v1074280811;3.6;55.2;A;;;1
+2018;Quebec;2016A000224;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280812;3.7;30.2;A;;;1
+2018;Quebec;2016A000224;Use additional cyber security measures beyond the default software;Percent;239;units;0;v1074280813;3.8;17.2;A;;;1
+2018;Ontario;2016A000235;Protected a laptop or computer ;Percent;239;units;0;v1074280814;4.1;80.7;A;;;1
+2018;Ontario;2016A000235;Enable automatic updates on your operating systems;Percent;239;units;0;v1074280815;4.2;53.6;A;;;1
+2018;Ontario;2016A000235;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280816;4.3;32.8;A;;;1
+2018;Ontario;2016A000235;Use additional cyber security measures beyond the default software ;Percent;239;units;0;v1074280817;4.4;46.6;A;;;1
+2018;Ontario;2016A000235;Protected a mobile device ;Percent;239;units;0;v1074280818;4.5;74.7;A;;;1
+2018;Ontario;2016A000235;Enable automatic updates on your operating systems ;Percent;239;units;0;v1074280819;4.6;50.4;A;;;1
+2018;Ontario;2016A000235;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280820;4.7;35.8;A;;;1
+2018;Ontario;2016A000235;Use additional cyber security measures beyond the default software;Percent;239;units;0;v1074280821;4.8;16.3;A;;;1
+2018;Prairie provinces;2016A00014;Protected a laptop or computer ;Percent;239;units;0;v1074280822;5.1;80.9;A;;;1
+2018;Prairie provinces;2016A00014;Enable automatic updates on your operating systems;Percent;239;units;0;v1074280823;5.2;55.5;A;;;1
+2018;Prairie provinces;2016A00014;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280824;5.3;34.9;A;;;1
+2018;Prairie provinces;2016A00014;Use additional cyber security measures beyond the default software ;Percent;239;units;0;v1074280825;5.4;46.5;A;;;1
+2018;Prairie provinces;2016A00014;Protected a mobile device ;Percent;239;units;0;v1074280826;5.5;78.3;A;;;1
+2018;Prairie provinces;2016A00014;Enable automatic updates on your operating systems ;Percent;239;units;0;v1074280827;5.6;52.7;A;;;1
+2018;Prairie provinces;2016A00014;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280828;5.7;41.1;A;;;1
+2018;Prairie provinces;2016A00014;Use additional cyber security measures beyond the default software;Percent;239;units;0;v1074280829;5.8;15.8;A;;;1
+2018;British Columbia;2016A000259;Protected a laptop or computer ;Percent;239;units;0;v1074280830;6.1;82.3;A;;;1
+2018;British Columbia;2016A000259;Enable automatic updates on your operating systems;Percent;239;units;0;v1074280831;6.2;54.6;A;;;1
+2018;British Columbia;2016A000259;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280832;6.3;36.4;A;;;1
+2018;British Columbia;2016A000259;Use additional cyber security measures beyond the default software ;Percent;239;units;0;v1074280833;6.4;45.4;A;;;1
+2018;British Columbia;2016A000259;Protected a mobile device ;Percent;239;units;0;v1074280834;6.5;73.7;A;;;1
+2018;British Columbia;2016A000259;Enable automatic updates on your operating systems ;Percent;239;units;0;v1074280835;6.6;48.1;A;;;1
+2018;British Columbia;2016A000259;Manually update your operating systems on a regular basis ;Percent;239;units;0;v1074280836;6.7;38.4;A;;;1
+2018;British Columbia;2016A000259;Use additional cyber security measures beyond the default software;Percent;239;units;0;v1074280837;6.8;12.9;A;;;1
